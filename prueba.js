@@ -1,0 +1,1 @@
+const holaMundo = () => console.log('estoy vivo')
